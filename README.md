@@ -52,4 +52,4 @@ Windows Terminal supports **Images (PNG, JPG)** and **GIFs** for backgrounds.
 **MP4 Video files are NOT supported** as backgrounds in Windows Terminal (you will get a black screen). Please use GIFs instead!
 
 ---
-*Created by MeklasDev*
+*Created by MeklasDev
