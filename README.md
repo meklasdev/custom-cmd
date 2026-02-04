@@ -1,55 +1,83 @@
-# Ultimate Terminal Manager 🚀
+<div align="center">
 
-Make your terminal look **AMAZING** with one command.
+# 🚀 Ultimate Terminal Manager
+**The definitive way to make your terminal look AMAZING with one command.**
 
-This tool allows you to easily install custom themes, fonts, cursor effects, and **Shader FX** for Windows Terminal and Hyper.js.
+[![PowerShell](https://img.shields.io/badge/Script-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](#)
+[![Windows](https://img.shields.io/badge/Platform-Windows_10_%2F_11-0078D4?style=for-the-badge&logo=windows&logoColor=white)](#)
+[![Shaders](https://img.shields.io/badge/Shaders-20%2B_Available-bb9af7?style=for-the-badge&logo=opengl&logoColor=white)](#)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=One-Click+Presets+Installed;20%2B+HLSL+Shaders+Included;Automatic+Font+Setup;Cyberpunk+%7C+Matrix+%7C+VHS" alt="Typing SVG" />
 
 ![Banner](assets/backgrounds/cyberpunk.png)
 
-## 🔥 Features
-- **One-Click Presets**: Cyberpunk, Hacker, Matrix, Vaporwave, and more.
-- **Custom Preset Wizard**: Build your own theme! Choose fonts, colors, cursors.
-- **20+ Shaders**: Apply post-processing effects like CRT, Glitch, VHS, etc.
-- **Automatic Setup**: Installs fonts, updates config files, and handles everything.
+---
 
-## 📦 How to Use
-1. Right-click `Terminal-Manager.ps1` and select "Run with PowerShell".
-2. Choose a preset from the menu.
-3. Enjoy your new terminal!
+### 🔥 Core Features
+**One-Click Presets** • **Custom Wizard** • **20+ Shaders** • **Automatic Setup**
 
-## 🎨 Shader Gallery
-We include over 20+ HLSL shaders to customize your Windows Terminal experience.
+</div>
+
+---
+
+<table border="0">
+  <tr>
+    <td width="55%" valign="top">
+      <h3>🛠️ Why use it?</h3>
+      <ul>
+        <li><b>Instalacja jednym kliknięciem:</b> Zapomnij o ręcznej edycji plików JSON.</li>
+        <li><b>Shader FX:</b> Zaawansowane efekty post-processingu (CRT, Glitch, Bloom).</li>
+        <li><b>Font Auto-Installer:</b> Automatycznie pobiera i instaluje wymagane Nerd Fonts.</li>
+        <li><b>Uniwersalność:</b> Pełne wsparcie dla Windows Terminal oraz Hyper.js.</li>
+      </ul>
+      <br/>
+      <h3>📦 Quick Start</h3>
+      <ol>
+        <li>Right-click <code>Terminal-Manager.ps1</code></li>
+        <li>Select <b>"Run with PowerShell"</b></li>
+        <li>Choose your vibe from the menu!</li>
+      </ol>
+    </td>
+    <td width="45%" valign="top" align="center">
+      <h3>🎨 Shader Gallery</h3>
+      <table border="0">
+        <tr><td><b>Retro CRT</b></td><td><code>📺 Classic</code></td></tr>
+        <tr><td><b>Matrix</b></td><td><code>📟 Digital Rain</code></td></tr>
+        <tr><td><b>Glitch</b></td><td><code>👾 Cyberpunk</code></td></tr>
+        <tr><td><b>VHS</b></td><td><code>📼 80s Tape</code></td></tr>
+        <tr><td><b>NightVision</b></td><td><code>🔫 Tactical</code></td></tr>
+      </table>
+      <p align="center">
+        <i>+ 15 more effects!</i>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+### 🎨 Visual Preview
 
 | Effect | Description | Preview |
 | :--- | :--- | :--- |
-| **Retro CRT** | Classic monitor scanlines and curvature | ![Retro](assets/docs/shader_retro_preview.png) |
-| **Matrix** | Digital rain code (The One) | ![Matrix](assets/docs/shader_matrix_preview.png) |
-| **Glitch** | Cyberpunk chromatic aberration & distortion | ![Glitch](assets/docs/shader_glitch_preview.png) |
-| **Bloom** | Neon glow for bright colors | ![Bloom](assets/docs/shader_bloom_preview.png) |
-| **VHS** | 80s tape tracking error and noise | ![VHS](assets/docs/shader_vhs_preview.png) |
-| **NightVision** | Tactical green phosphor military HUD | ![NightVision](assets/docs/shader_nightvision_preview.png) |
-| **Sepia** | Vintage paper / Old terminal look | ![Sepia](assets/docs/shader_sepia_preview.png) |
-| **CyberScan** | Sci-Fi moving laser scanner | ![CyberScan](assets/docs/shader_cyberscan_preview.png) |
+| **Retro CRT** | Classic monitor scanlines | ![Retro](assets/docs/shader_retro_preview.png) |
+| **Glitch** | Chromatic aberration | ![Glitch](assets/docs/shader_glitch_preview.png) |
+| **VHS** | 80s tape tracking error | ![VHS](assets/docs/shader_vhs_preview.png) |
 
-### Other Available Shaders:
-- **SobelEdge**: Glowing edge detection (Neon outlines)
-- **Ripple**: Underwater wavy effect
-- **Pixelate**: Low-res 8-bit retro gaming look
-- **HueShift**: Psychedelic color cycling
-- **Invert**: Negative colors
-- **Grayscale**: Black & White noir style
-- **FishEye**: Wide-angle lens distortion
-- **RadialBlur**: Fast motion zoom effect
-- **BlueTint / RedTint**: Cold or Emergency atmosphere
+<br/>
 
-## 🛠️ Requirements
-- Windows 10/11
-- Windows Terminal
-- PowerShell
+> [!CAUTION]
+> **MP4 Video files are NOT supported** as backgrounds in Windows Terminal. 
+> Use high-quality **GIFs** to avoid a black screen!
 
-## ⚠️ Note on Videos
-Windows Terminal supports **Images (PNG, JPG)** and **GIFs** for backgrounds.
-**MP4 Video files are NOT supported** as backgrounds in Windows Terminal (you will get a black screen). Please use GIFs instead!
+### 🔗 Stay Connected
+[<img src="https://img.shields.io/badge/Meklas.pl-7AA2F7?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://meklas.pl)
+[<img src="https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/meklasdev)
 
----
-*Created by MeklasDev
+<br/>
+
+*Created with ❤️ by **MeklasDev***
+
+</div>
