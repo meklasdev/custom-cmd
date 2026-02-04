@@ -1,0 +1,39 @@
+{
+    "profiles": {
+        "list": [
+            {
+                "name": "Vaporwave",
+                "commandline": "pwsh.exe",
+                "colorScheme": "Vaporwave",
+                "cursorShape": "bar",
+                "cursorColor": "#ff00ff",
+                "backgroundImage": "",
+                "experimental.pixelShaderPath": "%REPO_ROOT%\\assets\\shaders\\Retro.hlsl",
+                "font": { "face": "CaskaydiaCove Nerd Font", "size": 12 }
+            }
+        ]
+    },
+    "schemes": [
+        {
+            "name": "Vaporwave",
+            "background": "#2b213a",
+            "foreground": "#e0e0e0",
+            "black": "#2b213a",
+            "red": "#ff5c57",
+            "green": "#5af78e",
+            "yellow": "#f3f99d",
+            "blue": "#57c7ff",
+            "purple": "#ff6ac1",
+            "cyan": "#9aedfe",
+            "white": "#f1f1f0",
+            "brightBlack": "#686868",
+            "brightRed": "#ff5c57",
+            "brightGreen": "#5af78e",
+            "brightYellow": "#f3f99d",
+            "brightBlue": "#57c7ff",
+            "brightPurple": "#ff6ac1",
+            "brightCyan": "#9aedfe",
+            "brightWhite": "#f1f1f0"
+        }
+    ]
+}

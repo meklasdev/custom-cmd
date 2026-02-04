@@ -1,0 +1,39 @@
+{
+    "profiles": {
+        "list": [
+            {
+                "name": "Anonymous Hacker",
+                "commandline": "pwsh.exe",
+                "colorScheme": "Hacker",
+                "cursorShape": "filledBox",
+                "cursorColor": "#00ff00",
+                "backgroundImage": "",
+                "experimental.pixelShaderPath": "%REPO_ROOT%\\assets\\shaders\\Matrix.hlsl",
+                "font": { "face": "Consolas", "size": 13 }
+            }
+        ]
+    },
+    "schemes": [
+        {
+            "name": "Hacker",
+            "background": "#000000",
+            "foreground": "#00ff00",
+            "black": "#000000",
+            "red": "#00ff00",
+            "green": "#00ff00",
+            "yellow": "#00ff00",
+            "blue": "#00ff00",
+            "purple": "#00ff00",
+            "cyan": "#00ff00",
+            "white": "#00ff00",
+            "brightBlack": "#003300",
+            "brightRed": "#00ff00",
+            "brightGreen": "#00ff00",
+            "brightYellow": "#00ff00",
+            "brightBlue": "#00ff00",
+            "brightPurple": "#00ff00",
+            "brightCyan": "#00ff00",
+            "brightWhite": "#00ff00"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "$schema": "https://aka.ms/terminal-profiles-schema",
+    "defaultProfile": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
+    "profiles": {
+        "defaults": {
+            "font": {
+                "face": "CaskaydiaCove Nerd Font",
+                "size": 12
+            },
+            "opacity": 80,
+            "useAcrylic": true
+        },
+        "list": [
+            {
+                "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
+                "name": "Cyberpunk 2077",
+                "commandline": "pwsh.exe",
+                "hidden": false,
+                "colorScheme": "Cyberpunk Neon",
+                "cursorShape": "bar",
+                "cursorColor": "#00ff41",
+                "backgroundImage": "C:\\Path\\To\\Your\\cyberpunk-glitch.gif",
+                "backgroundImageOpacity": 0.4,
+                "backgroundImageStretchMode": "uniformToFill",
+                "experimental.pixelShaderPath": "C:\\Path\\To\\Retro.hlsl",
+                "padding": "10, 10, 10, 10"
+            }
+        ]
+    },
+    "schemes": [
+        {
+            "name": "Cyberpunk Neon",
+            "black": "#000000",
+            "red": "#ff0055",
+            "green": "#00ff41",
+            "yellow": "#fdfd00",
+            "blue": "#00aaff",
+            "purple": "#bd93f9",
+            "cyan": "#00ffff",
+            "white": "#ffffff",
+            "brightBlack": "#555555",
+            "brightRed": "#ff6e67",
+            "brightGreen": "#5af78e",
+            "brightYellow": "#f3f99d",
+            "brightBlue": "#57c7ff",
+            "brightPurple": "#ff6ac1",
+            "brightCyan": "#9aedfe",
+            "brightWhite": "#f1f1f0",
+            "background": "#0b0c10",
+            "foreground": "#e0e0e0"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "profiles": {
+        "list": [
+            {
+                "name": "The Matrix",
+                "commandline": "pwsh.exe",
+                "colorScheme": "Matrix",
+                "cursorShape": "vintage",
+                "cursorColor": "#00FF00",
+                "backgroundImage": "%REPO_ROOT%\\assets\\backgrounds\\matrix.png",
+                "backgroundImageOpacity": 0.3,
+                "font": { "face": "Consolas", "size": 12 },
+                "experimental.pixelShaderPath": "%REPO_ROOT%\\assets\\shaders\\Matrix.hlsl"
+            }
+        ]
+    },
+    "schemes": [
+        {
+            "name": "Matrix",
+            "background": "#000000",
+            "foreground": "#00FF00",
+            "black": "#000000",
+            "red": "#00FF00",
+            "green": "#00FF00",
+            "yellow": "#00FF00",
+            "blue": "#00FF00",
+            "purple": "#00FF00",
+            "cyan": "#00FF00",
+            "white": "#00FF00",
+            "brightBlack": "#003300",
+            "brightRed": "#00FF00",
+            "brightGreen": "#00FF00",
+            "brightYellow": "#00FF00",
+            "brightBlue": "#00FF00",
+            "brightPurple": "#00FF00",
+            "brightCyan": "#00FF00",
+            "brightWhite": "#00FF00"
+        }
+    ]
+}
