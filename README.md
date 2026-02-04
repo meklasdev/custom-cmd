@@ -4,7 +4,7 @@ Make your terminal look **AMAZING** with one command.
 
 This tool allows you to easily install custom themes, fonts, cursor effects, and **Shader FX** for Windows Terminal and Hyper.js.
 
-![Banner](assets/backgrounds/cyberpunk_city.png)
+![Banner](assets/backgrounds/cyberpunk.png)
 
 ## 🔥 Features
 - **One-Click Presets**: Cyberpunk, Hacker, Matrix, Vaporwave, and more.
