@@ -1,83 +1,137 @@
 <div align="center">
 
 # 🚀 Ultimate Terminal Manager
-**The definitive way to make your terminal look AMAZING with one command.**
 
-[![PowerShell](https://img.shields.io/badge/Script-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](#)
-[![Windows](https://img.shields.io/badge/Platform-Windows_10_%2F_11-0078D4?style=for-the-badge&logo=windows&logoColor=white)](#)
-[![Shaders](https://img.shields.io/badge/Shaders-20%2B_Available-bb9af7?style=for-the-badge&logo=opengl&logoColor=white)](#)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=One-Click+Terminal+Presets;20%2B+HLSL+Shaders+Included;Automatic+Font+Setup;Cyberpunk+%7C+Matrix+%7C+VHS" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=One-Click+Presets+Installed;20%2B+HLSL+Shaders+Included;Automatic+Font+Setup;Cyberpunk+%7C+Matrix+%7C+VHS" alt="Typing SVG" />
+**The definitive way to make your terminal look AMAZING with one command**
+
+[![PowerShell](https://img.shields.io/badge/Script-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white&labelColor=1a1b26)](#)
+[![Windows](https://img.shields.io/badge/Platform-Windows_10_%2F_11-0078D4?style=for-the-badge&logo=windows&logoColor=white&labelColor=1a1b26)](#)
+[![Shaders](https://img.shields.io/badge/Shaders-20%2B_Available-bb9af7?style=for-the-badge&logo=opengl&logoColor=white&labelColor=1a1b26)](#)
 
 ![Banner](assets/backgrounds/cyberpunk.png)
-
----
-
-### 🔥 Core Features
-**One-Click Presets** • **Custom Wizard** • **20+ Shaders** • **Automatic Setup**
 
 </div>
 
 ---
 
-<table border="0">
-  <tr>
-    <td width="55%" valign="top">
-      <h3>🛠️ Why use it?</h3>
-      <ul>
-        <li><b>Instalacja jednym kliknięciem:</b> Zapomnij o ręcznej edycji plików JSON.</li>
-        <li><b>Shader FX:</b> Zaawansowane efekty post-processingu (CRT, Glitch, Bloom).</li>
-        <li><b>Font Auto-Installer:</b> Automatycznie pobiera i instaluje wymagane Nerd Fonts.</li>
-        <li><b>Uniwersalność:</b> Pełne wsparcie dla Windows Terminal oraz Hyper.js.</li>
-      </ul>
-      <br/>
-      <h3>📦 Quick Start</h3>
-      <ol>
-        <li>Right-click <code>Terminal-Manager.ps1</code></li>
-        <li>Select <b>"Run with PowerShell"</b></li>
-        <li>Choose your vibe from the menu!</li>
-      </ol>
-    </td>
-    <td width="45%" valign="top" align="center">
-      <h3>🎨 Shader Gallery</h3>
-      <table border="0">
-        <tr><td><b>Retro CRT</b></td><td><code>📺 Classic</code></td></tr>
-        <tr><td><b>Matrix</b></td><td><code>📟 Digital Rain</code></td></tr>
-        <tr><td><b>Glitch</b></td><td><code>👾 Cyberpunk</code></td></tr>
-        <tr><td><b>VHS</b></td><td><code>📼 80s Tape</code></td></tr>
-        <tr><td><b>NightVision</b></td><td><code>🔫 Tactical</code></td></tr>
-      </table>
-      <p align="center">
-        <i>+ 15 more effects!</i>
-      </p>
-    </td>
-  </tr>
+## ✨ Why Use This?
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 **One-Click Setup**
+Forget manual JSON editing. Install complete terminal themes instantly.
+
+### 🎨 **20+ Shader Effects**
+Advanced post-processing: CRT, Glitch, Bloom, Matrix, VHS, and more.
+
+</td>
+<td width="50%">
+
+### 🔤 **Auto Font Installer**
+Automatically downloads and installs required Nerd Fonts.
+
+### 🌐 **Universal Support**
+Full compatibility with Windows Terminal and Hyper.js.
+
+</td>
+</tr>
 </table>
+
+---
+
+## 🚀 Quick Start
+
+```powershell
+# 1. Right-click Terminal-Manager.ps1
+# 2. Select "Run with PowerShell"
+# 3. Choose your vibe from the menu!
+```
+
+That's it! Your terminal will be transformed in seconds.
+
+---
+
+## 🎨 Shader Gallery
+
+<div align="center">
+
+| Shader | Style | Vibe |
+|--------|-------|------|
+| **Retro CRT** | 📺 Classic | Vintage monitor scanlines |
+| **Matrix** | 📟 Digital Rain | Hacker aesthetic |
+| **Glitch** | 👾 Cyberpunk | Chromatic aberration |
+| **VHS** | 📼 80s Tape | Tracking errors & noise |
+| **Night Vision** | 🔫 Tactical | Military green glow |
+| **Neon Pulse** | 💜 Synthwave | Pulsing neon borders |
+
+*+ 15 more effects included!*
+
+</div>
+
+---
+
+## 📸 Visual Preview
+
+<div align="center">
+
+| Effect | Description | Preview |
+|--------|-------------|---------|
+| **Retro CRT** | Classic monitor scanlines | ![Retro](assets/docs/shader_retro_preview.png) |
+| **Glitch** | Chromatic aberration | ![Glitch](assets/docs/shader_glitch_preview.png) |
+| **VHS** | 80s tape tracking error | ![VHS](assets/docs/shader_vhs_preview.png) |
+
+</div>
+
+---
+
+## ⚠️ Important Notes
+
+> [!CAUTION]
+> **MP4 Video files are NOT supported** as backgrounds in Windows Terminal.
+> Use high-quality **GIFs** to avoid a black screen!
+
+---
+
+## 🛠 Features
+
+- ✅ **One-Click Presets** - Cyberpunk, Matrix, Retro, and more
+- ✅ **Custom Wizard** - Build your own theme interactively
+- ✅ **20+ HLSL Shaders** - Professional post-processing effects
+- ✅ **Automatic Setup** - Fonts, backgrounds, and configs handled for you
+- ✅ **Windows Terminal** - Full integration with settings.json
+- ✅ **Hyper.js Support** - Works with your favorite terminal
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to:
+
+1. Fork the repo
+2. Add new shaders or presets
+3. Submit a PR
+
+---
+
+## 📜 License
+
+MIT © [meklasdev](https://github.com/meklasdev)
 
 ---
 
 <div align="center">
 
-### 🎨 Visual Preview
+**[⭐ Star this repo](https://github.com/meklasdev/custom-cmd)** if you find it useful!
 
-| Effect | Description | Preview |
-| :--- | :--- | :--- |
-| **Retro CRT** | Classic monitor scanlines | ![Retro](assets/docs/shader_retro_preview.png) |
-| **Glitch** | Chromatic aberration | ![Glitch](assets/docs/shader_glitch_preview.png) |
-| **VHS** | 80s tape tracking error | ![VHS](assets/docs/shader_vhs_preview.png) |
+### 🔗 Connect With Me
 
-<br/>
+[![Website](https://img.shields.io/badge/Meklas.pl-7AA2F7?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1b26)](https://meklas.pl)
+[![GitHub](https://img.shields.io/badge/GitHub-meklasdev-1a1b26?style=for-the-badge&logo=github&logoColor=white)](https://github.com/meklasdev)
 
-> [!CAUTION]
-> **MP4 Video files are NOT supported** as backgrounds in Windows Terminal. 
-> Use high-quality **GIFs** to avoid a black screen!
-
-### 🔗 Stay Connected
-[<img src="https://img.shields.io/badge/Meklas.pl-7AA2F7?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://meklas.pl)
-[<img src="https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/meklasdev)
-
-<br/>
-
-*Created with ❤️ by **MeklasDev***
+Made by **[meklasdev](https://github.com/meklasdev)** with PowerShell ⚡
 
 </div>
